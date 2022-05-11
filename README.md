@@ -1,10 +1,10 @@
 ## About
-Tiny program to view pcx files easily on a modern mac
-This uses sdl2 libraries to do the heavy lifting
+Tiny program to view pcx files easily on a modern mac (or windows if you recompile it).
+This uses sdl2 libraries to do the heavy lifting. 
 
+![PCX viewer screenshot](screenshot/pcx_viewer_screenshot.png?raw=true "pcx_viewer running")
 
-
-## Installation
+## Installation and compiling
 ```
 brew install sdl2
 make
